@@ -1,0 +1,2 @@
+customer_count,customers_with_purchase,repeat_customers,repeat_purchase_rate_pct,total_lifetime_revenue,avg_ltv,median_ltv,avg_orders_per_customer,avg_recency_days_purchasers,high_attrition_risk_customers,high_attrition_risk_rate_pct,dormant_customers,dormant_rate_pct,high_value_customers,high_value_risk_customers
+4999,4961,4769,95.39907981596319,58479883.85,11787.922566014917,9152.3,5.024390243902439,143.02237452126587,1452,29.045809161832363,1490,29.80596119223845,1241,227
